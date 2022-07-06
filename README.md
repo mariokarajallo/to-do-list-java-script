@@ -1,4 +1,4 @@
-# To Do List Twiiter  🐤
+# To Do List Tweeter  🐤
 **To Do List de publicaciones de Twiiter**
 
 -	Validación de formulario antes de guardar/publicar.
