@@ -1,5 +1,5 @@
 # To Do List Twitter  🐤
-**To Do List de publicaciones de Twiiter**
+**To Do List de publicaciones de Twitter**
 
 -	Validación de formulario antes de guardar/publicar.
 -	Listado de textos/twits.
@@ -7,15 +7,12 @@
 -	Eliminar listado.
 
 
-## Demo 
-Para mirar la demo del proyecto visita: [Mail Simulator](https://jsproyecto4.netlify.app/)
+## Demo 📱
+Para mirar la demo del proyecto visita: [To Do List](https://jsproyecto4.netlify.app/)
 
-![preview](mail-simulator.webp)
+![preview](to-do-list-twitter.webp)
 <br>
-![preview](mail-simulator-2.webp)
-<br>
-![preview](mail-simulator-3.webp)
-<br>
+
 ## **Construido con 🛠️**
 
 
